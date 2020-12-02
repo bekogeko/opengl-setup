@@ -1,2 +1,5 @@
 ﻿  Main.cpp
-  OpenGLSetup.vcxproj -> C:\Users\Bekir Gyulestan\Documents\Visual Studio 2019\Projects\OpenGl\Debug\OpenGLSetup.exe
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Bekir Gyulestan\Desktop\opengl-setup-master\Debug\vc120.pdb'; linking object as if no debug info
+  OpenGLSetup.vcxproj -> C:\Users\Bekir Gyulestan\Desktop\opengl-setup-master\Debug\OpenGLSetup.exe
